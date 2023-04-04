@@ -2,7 +2,7 @@
 
 This Weather App is a web application that displays the current weather conditions for a given location. It was built using Node.js, JavaScript, Express.js, HTML, and CSS.
 
-##Installation
+###Installation
 To install this project on your machine, please follow the steps below:
 1. Clone this repository onto your local machine using the following command:
 git clone https://github.com/Rahulqqq/weatherProject-app.git
