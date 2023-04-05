@@ -6,10 +6,12 @@ This Weather App is a web application that displays the current weather conditio
 To install this project on your machine, please follow the steps below:
 1. Clone this repository onto your local machine using the following command:
 git clone https://github.com/Rahulqqq/weatherProject-app.git
+
 2.Navigate to the project directory:
 cd weatherProject-app
+
 3.Install the required dependencies:
-npm install4
+npm install
 
 ##Usage
 To use the Weather App, follow these steps:
