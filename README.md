@@ -15,6 +15,7 @@ npm install
 
 ### Usage
 To use the Weather App, follow these steps:
+
 1.Run the app:
 node app.js
 
