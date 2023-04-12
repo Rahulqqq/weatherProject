@@ -33,4 +33,4 @@ This project uses the following dependencies:
 
 
 ### Credits
-This Weather App was built by Your me. The app uses the OpenWeatherMap API to get the current weather information for a given location
+This Weather App was built by Your me. The app uses the OpenWeatherMap API to get the current weather information for a given location.
